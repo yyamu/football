@@ -169,6 +169,10 @@ action set):
 ### Trained checkpoints
 We provide trained PPO checkpoints for the following scenarios:
 
+
+YAMU Yildirim 
+
+
   - [11_vs_11_easy_stochastic](https://storage.googleapis.com/grf_public/trained_models/11_vs_11_easy_stochastic_v2),
   - [academy_run_to_score_with_keeper](https://storage.googleapis.com/grf_public/trained_models/academy_run_to_score_with_keeper_v2).
 
